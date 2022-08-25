@@ -178,6 +178,8 @@ yarn serve:local
 ### Env variables
 
 Env variables should be put in a .env.${stage} file or .env file.
+The following env variables are required:
+- ENV
 
 ### Deployment on AWS using serverless framework
 
